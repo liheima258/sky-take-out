@@ -69,8 +69,6 @@ public class Orders implements Serializable {
     //备注
     private String remark;
 
-    //用户名
-    private String userName;
 
     //手机号
     private String phone;
